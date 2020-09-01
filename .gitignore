@@ -24,4 +24,3 @@ hs_err_pid*
 
 # 忽略掉idea的用户配置
 /.idea/
-*.iml
